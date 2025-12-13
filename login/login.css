@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background-color:#e9fce5;
+
+
+}
+.img{
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(http://localhost/Kisan%20Mitra/photos/farm.jpg);
+    
+}
+.containerr{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+}
+.msg{
+    top: 35%;
+    font-size: 50px;
+    font-weight: 900;
+}
+.quote{
+    top: 45%;
+    font-size: 20px;
+    font-weight: 500;
+}
+.navbarr{
+    background-color: #4caf50;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(http://localhost/Kisan%20Mitra/photos/logo.jpg);
+    margin-bottom: -9px;
+    margin-left: 5px;
+}
+.primcol{
+    color: #4caf50;
+}
+.login-image{
+    height: 50px;
+    width: 100%;
+    background-image: linear-gradient(white,grey);
+}
+main{
+    width: 100%;
+}
+.fwidth{
+    width: 100%;
+}
+.login-form{
+    width: 100%;
+}
+.form{
+    width: 80%;
+  
+
+}
+form{
+    width: 75%;
+}
+.hbtn{
+    background-color: #4caf50;
+}
+.hbtn:hover{
+border: 2px solid rgb(104, 179, 104);
+border-radius: 7px;
+}
