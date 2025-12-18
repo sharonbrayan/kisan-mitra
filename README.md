@@ -51,7 +51,7 @@ The goal of Kisan Mitra is to:
 1. Clone the repository
    ```bash
    git clone https://github.com/sharonbrayan/kisan-mitra.git
-```
+
 
 2. Move the project folder to your server directory
 (e.g., htdocs for XAMPP)
